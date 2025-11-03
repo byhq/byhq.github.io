@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Raihan Taufiqulhaq
+# 👋 Hi there, I'm Alfan Fadhil Baihaqi
 
 🎓 **Fresh Graduate in Informatics Engineering**  
 💻 Passionate about **Web Development**, **Artificial Intelligence**, and **Digital Technologies**
